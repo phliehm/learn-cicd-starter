@@ -16,6 +16,7 @@ PORT="8080"
 
 Run the server:
 
+# Same here
 ```bash
 go build -o notely && ./notely
 ```
